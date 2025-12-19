@@ -23,7 +23,7 @@ The system includes:
 
 ### 1️⃣ Clone Repository  
 ```bash
-git clone [https://github.com/Dhruv2193/Customer_Churn_Prediction.git](https://github.com/jyanikhushal/Customer_Churn_Prediction)
+git clone (https://github.com/jyanikhushal/Customer_Churn_Prediction)
 cd Customer_Churn_Prediction
 ```
 
@@ -69,8 +69,9 @@ Frontend runs at `http://localhost:3000`.
 ---
 
 ## ✨ Author  
-**Dhruv Chowdhury**  
+**Jyani Khushal**  
 - 💼 Interested in **Data Science, Machine Learning, and Quantitative Finance**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/dhruv-chowdhury-0045a0249/) | [GitHub](https://github.com/Dhruv2193)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/khushal-jyani-073b20255/) | [GitHub](https://github.com/jyanikhushal)  
+
 
 
